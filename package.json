@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "soquetic": "^1.1.0"
-  }
+  },
+  "name": "soquetic-base",
+  "version": "1.0.0",
+  "main": "back.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
