@@ -1,0 +1,16 @@
+[
+    {
+    "id": 1,
+    "nombre": "Sheraton",
+    "calificacion": 5,
+    "ubicacion": "CABA",
+    "habitaciones": 54
+    },
+    {
+        "id": 2,
+        "nombre": "Lo de Ivo",
+        "calificacion": 2,
+        "ubicacion": "MDQ",
+        "habitaciones": 2
+    }
+]
