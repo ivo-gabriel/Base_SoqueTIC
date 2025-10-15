@@ -1,0 +1,116 @@
+h1{
+  position: absolute;
+  top: 0;
+  padding: 1rem;
+  width: 100%;
+  text-align: center;
+  background-color: rgba(50, 50, 50, 0.3);
+}
+
+/* ======== Reset básico ======== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/* ======== Fondo general ======== */
+body {
+  background: linear-gradient(135deg, #f9fafb, #e6edf3);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+/* ======== Contenedor principal ======== */
+.hoteles-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 30px;
+  width: 100%;
+  max-width: 1200px;
+}
+
+/* ======== Card de hotel ======== */
+.hotel-card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(10px);
+  border-radius: 18px;
+  border: 1px solid rgba(200, 200, 200, 0.4);
+  padding: 25px 30px;
+  color: #333;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  cursor: pointer;
+}
+
+.hotel-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.12);
+}
+
+/* ======== Nombre ======== */
+.hotel-card h2 {
+  font-size: 1.4rem;
+  margin-bottom: 8px;
+  color: #222;
+}
+
+/* ======== Ubicación ======== */
+.hotel-card .ubicacion {
+  color: #0077b6;
+  font-size: 0.95rem;
+  margin-bottom: 10px;
+}
+
+/* ======== Estrellas ======== */
+.hotel-card .estrellas {
+  color: #f5b301;
+  margin-bottom: 10px;
+  letter-spacing: 2px;
+  font-size: 1.1rem;
+}
+
+/* ======== Dato extra ======== */
+.hotel-card .dato-extra {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 14px;
+  line-height: 1.4;
+}
+
+/* ======== Calificación de Google ======== */
+.hotel-card .calificacion {
+  background: rgba(0, 119, 182, 0.08);
+  border: 1px solid rgba(0, 119, 182, 0.15);
+  border-radius: 8px;
+  padding: 6px 12px;
+  display: inline-block;
+  color: #0077b6;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.hotel-card .calificacion span {
+  color: #111;
+  font-weight: 600;
+}
+
+/* ======== Animación de aparición ======== */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hotel-card {
+  animation: fadeIn 0.6s ease forwards;
+}

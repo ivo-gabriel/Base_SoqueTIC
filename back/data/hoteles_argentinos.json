@@ -1,0 +1,162 @@
+[
+  {
+    "id": "h001",
+    "nombre": "Alvear Palace Hotel",
+    "estrellas": 5,
+    "ubicacion": "Recoleta, Buenos Aires",
+    "datoExtra": "187 habitaciones y suites de lujo con estilo europeo clásico",
+    "calificacionGoogle": 4.8
+  },
+  {
+    "id": "h002",
+    "nombre": "Hotel Llao Llao Resort, Golf & Spa",
+    "estrellas": 5,
+    "ubicacion": "Bariloche, Río Negro",
+    "datoExtra": "Ubicado entre los lagos Nahuel Huapi y Moreno, cuenta con campo de golf y spa panorámico",
+    "calificacionGoogle": 4.9
+  },
+  {
+    "id": "h003",
+    "nombre": "Faena Hotel Buenos Aires",
+    "estrellas": 5,
+    "ubicacion": "Puerto Madero, Buenos Aires",
+    "datoExtra": "Diseño de Philippe Starck con piscina roja icónica y shows de tango en el interior",
+    "calificacionGoogle": 4.7
+  },
+  {
+    "id": "h004",
+    "nombre": "Arakur Ushuaia Resort & Spa",
+    "estrellas": 5,
+    "ubicacion": "Ushuaia, Tierra del Fuego",
+    "datoExtra": "Ubicado en una reserva natural privada con vista al Canal Beagle",
+    "calificacionGoogle": 4.8
+  },
+  {
+    "id": "h005",
+    "nombre": "Park Hyatt Mendoza",
+    "estrellas": 5,
+    "ubicacion": "Mendoza, Cuyo",
+    "datoExtra": "Frente a la Plaza Independencia, combina arquitectura clásica con casino y spa",
+    "calificacionGoogle": 4.7
+  },
+  {
+    "id": "h006",
+    "nombre": "Algodón Mansion",
+    "estrellas": 5,
+    "ubicacion": "Recoleta, Buenos Aires",
+    "datoExtra": "Solo 10 suites exclusivas, con bodega y rooftop con piscina climatizada",
+    "calificacionGoogle": 4.8
+  },
+  {
+    "id": "h007",
+    "nombre": "Alvear Icon Hotel",
+    "estrellas": 5,
+    "ubicacion": "Puerto Madero, Buenos Aires",
+    "datoExtra": "Cuenta con 159 habitaciones modernas y un sky bar con vista panorámica",
+    "calificacionGoogle": 4.7
+  },
+  {
+    "id": "h008",
+    "nombre": "Cavas Wine Lodge",
+    "estrellas": 5,
+    "ubicacion": "Luján de Cuyo, Mendoza",
+    "datoExtra": "Ubicado entre viñedos, con 18 villas privadas y spa con tratamientos con vino",
+    "calificacionGoogle": 4.9
+  },
+  {
+    "id": "h009",
+    "nombre": "Panamericano Buenos Aires Hotel",
+    "estrellas": 5,
+    "ubicacion": "Centro, Buenos Aires",
+    "datoExtra": "Piscina con vista al Obelisco y 300 habitaciones",
+    "calificacionGoogle": 4.5
+  },
+  {
+    "id": "h010",
+    "nombre": "Sofitel Recoleta",
+    "estrellas": 5,
+    "ubicacion": "Recoleta, Buenos Aires",
+    "datoExtra": "Hotel estilo francés con 175 habitaciones y galería de arte interior",
+    "calificacionGoogle": 4.6
+  },
+  {
+    "id": "h011",
+    "nombre": "Sheraton Iguazú Resort & Spa",
+    "estrellas": 5,
+    "ubicacion": "Parque Nacional Iguazú, Misiones",
+    "datoExtra": "Único hotel dentro del parque con vista directa a las Cataratas",
+    "calificacionGoogle": 4.8
+  },
+  {
+    "id": "h012",
+    "nombre": "Design Suites Calafate",
+    "estrellas": 4,
+    "ubicacion": "El Calafate, Santa Cruz",
+    "datoExtra": "Diseño moderno integrado al paisaje, con vista al Lago Argentino",
+    "calificacionGoogle": 4.5
+  },
+  {
+    "id": "h013",
+    "nombre": "Los Cauquenes Resort + Spa + Experiences",
+    "estrellas": 5,
+    "ubicacion": "Ushuaia, Tierra del Fuego",
+    "datoExtra": "Frente al mar, ofrece experiencias personalizadas en la nieve y navegación",
+    "calificacionGoogle": 4.9
+  },
+  {
+    "id": "h014",
+    "nombre": "House of Jasmines Relais & Châteaux",
+    "estrellas": 5,
+    "ubicacion": "Salta, Noroeste Argentino",
+    "datoExtra": "Antigua estancia de campo con 14 habitaciones y spa con vistas a los Andes",
+    "calificacionGoogle": 4.8
+  },
+  {
+    "id": "h015",
+    "nombre": "NH Mendoza Cordillera",
+    "estrellas": 4,
+    "ubicacion": "Mendoza, Cuyo",
+    "datoExtra": "148 habitaciones, piscina exterior y restaurante regional",
+    "calificacionGoogle": 4.3
+  },
+  {
+    "id": "h016",
+    "nombre": "Howard Johnson Hotel & Casino Formosa",
+    "estrellas": 4,
+    "ubicacion": "Formosa, Litoral",
+    "datoExtra": "Hotel con casino, piscina al aire libre y restaurante gourmet",
+    "calificacionGoogle": 4.4
+  },
+  {
+    "id": "h017",
+    "nombre": "El Casco Art Hotel",
+    "estrellas": 5,
+    "ubicacion": "Bariloche, Río Negro",
+    "datoExtra": "Galería de arte con más de 400 obras argentinas, frente al Lago Nahuel Huapi",
+    "calificacionGoogle": 4.8
+  },
+  {
+    "id": "h018",
+    "nombre": "Gran Melia Iguazú",
+    "estrellas": 5,
+    "ubicacion": "Parque Nacional Iguazú, Misiones",
+    "datoExtra": "Vista directa a la Garganta del Diablo y piscina infinity",
+    "calificacionGoogle": 4.9
+  },
+  {
+    "id": "h019",
+    "nombre": "Patagonia Plaza Hotel",
+    "estrellas": 4,
+    "ubicacion": "San Martín de los Andes, Neuquén",
+    "datoExtra": "Hotel de montaña con 90 habitaciones y pileta climatizada",
+    "calificacionGoogle": 4.4
+  },
+  {
+    "id": "h020",
+    "nombre": "Las Balsas Relais & Châteaux",
+    "estrellas": 5,
+    "ubicacion": "Villa La Angostura, Neuquén",
+    "datoExtra": "Boutique hotel frente al lago Nahuel Huapi con solo 15 habitaciones exclusivas",
+    "calificacionGoogle": 4.9
+  }
+]
